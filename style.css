@@ -127,5 +127,10 @@ body {
     {
         margin-right: 20px;
     }
+    .grid-item:hover {
+        box-shadow: 10px 10px 10px 10px rgba(0,0,0,0.5);
+        transition: ease-in;
+        transition: 0.5s;
+    }
 
 }
